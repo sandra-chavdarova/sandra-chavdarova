@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 💻 I am a student in my second year of studies at the Faculty of Computer Science and Engineering in Skopje.
 
-<img style="display: flex; justify-content: center; align-items: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-chavdarova&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="sandra-chavdarova's GitHub Stats" />
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-chavdarova&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="sandra-chavdarova's GitHub Stats" />
+</div>
