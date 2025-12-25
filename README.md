@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 I am a student in my second year of studies at the Faculty of Computer Science and Engineering in Skopje.
+💻 I am a student in my third year of studies at the Faculty of Computer Science and Engineering in Skopje.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-chavdarova&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sandra-chavdarova's GitHub Stats" />
