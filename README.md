@@ -1,20 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Sandra
 
-<!--
-**sandra-chavdarova/sandra-chavdarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+I am a student in my third year of studies at the Faculty of Computer Science and Engineering in Skopje. Currently exploring backend development and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-💻 I am a student in my third year of studies at the Faculty of Computer Science and Engineering in Skopje.
+---
+
+- 🔭 I'm currently working on Vezilka (National Centre for Artificial Intelligence), and AI Accessibility Testing with Playwright and axe-core
+- 🌱 I'm currently learning testing with Playwright, training AI models, Onion Architecture using dotnet, as well as the Django framework
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sandra-chavdarova-384399398/)
+
+---
+
+### 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,java,python,github)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-chavdarova&theme=default&show_icons=true&hide_border=true&layout=compact" alt="sandra-chavdarova's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandra-chavdarova&theme=default&show_icons=true&hide_border=true" alt="Sandra's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandra-chavdarova&theme=default&hide_border=true" alt="Sandra's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-chavdarova&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
