@@ -12,7 +12,7 @@ I am a student in my third year of studies at the Faculty of Computer Science an
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,java,python,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,java,python,github,githubactions,gitlab,jenkins,kubernetes,bash,html,css,bootstrap,jquery,cs,django,docker,dotnet,figma,postgres,sqlite,pytorch,sklearn,spring,unity,wordpress)](https://skillicons.dev)
 
 ---
 
