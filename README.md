@@ -10,11 +10,19 @@ I am a student in my third year of studies at the Faculty of Computer Science an
 
 ---
 
-### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,java,python,github,githubactions,gitlab,jenkins,bash,html,css,bootstrap,jquery,css,docker,figma,postgres,sqlite,pytorch,sklearn,spring,unity,wordpress)](https://skillicons.dev)
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,java,python,github,githubactions,gitlab,jenkins,bash,html,css,bootstrap,jquery,docker,figma,postgres,sqlite,pytorch,sklearn,spring,unity,wordpress" />
+  </a>
+</p>
 
-#### Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=dotnet,django,kubernetes,mongodb,nodejs,react,ts)](https://skillicons.dev)
+<h4 align="center">Currently Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,django,kubernetes,mongodb,nodejs,react,ts" />
+  </a>
+</p>
 
 ---
 
