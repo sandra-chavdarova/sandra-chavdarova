@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sandra
 
-I am a student in my third year of studies at the Faculty of Computer Science and Engineering in Skopje. Currently exploring backend development and machine learning.
+I am a student in my fourth year of studies at the Faculty of Computer Science and Engineering in Skopje. Currently exploring backend development and machine learning.
 
 ---
 
